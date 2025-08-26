@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Godwin Itodo</h1>
+<h1 align="center">Hi, I'm Godwin Itodo</h1>
 <h3 align="center">Software Engineer | AI Enthusiast | Creative Technologist</h3>
 
 <img align="center" width="400" src="https://images.unsplash.com/photo-1607706189992-eae578626c86?ixlib=rb-1.2.1&auto=format&fit=crop&w=870&q=80">
