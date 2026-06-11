@@ -1,4 +1,4 @@
-# <h1 align="center">Hi, I'm Godwin Itodo (Ateko) 👋</h1>
+# <h1 align="center">Hi, I'm Godwin Itodo Ateko</h1>
 <h3 align="center">Full-Stack Developer | AI Trainer & Machine Learning Specialist</h3>
 
 <p align="center">
@@ -52,7 +52,7 @@ I am a passionate **Full-Stack Developer, AI Trainer, and Machine Learning Speci
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h4>🧠 AI, Machine Learning & Python</h4>
+      <h4>AI, Machine Learning & Python</h4>
       <p>
         <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
         <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
@@ -74,7 +74,7 @@ I am a passionate **Full-Stack Developer, AI Trainer, and Machine Learning Speci
 
 ---
 
-### 🚀 Featured Machine Learning & AI Projects
+###  Featured Machine Learning & AI Projects
 
 <table>
   <tr>
@@ -105,7 +105,7 @@ I am a passionate **Full-Stack Developer, AI Trainer, and Machine Learning Speci
   </tr>
   <tr>
     <td>
-      <strong>🛡️ Email Phishing Detection System</strong><br/>
+      <strong> Email Phishing Detection System</strong><br/>
       <em>NLP + Hugging Face Model Training (2023)</em>
       <ul>
         <li>Trained a supervised text classification model using custom NLP feature extraction.</li>
@@ -117,7 +117,7 @@ I am a passionate **Full-Stack Developer, AI Trainer, and Machine Learning Speci
       </p>
     </td>
     <td>
-      <strong>🐔 Poultry Disease Detector</strong><br/>
+      <strong>Poultry Disease Detector</strong><br/>
       <em>Teachable Machine + Web Application (2023)</em>
       <ul>
         <li>Trained an image classification model on specialized poultry disease datasets.</li>
@@ -133,19 +133,19 @@ I am a passionate **Full-Stack Developer, AI Trainer, and Machine Learning Speci
 
 ---
 
-### 🌐 Featured Full-Stack Web Projects
+### Featured Full-Stack Web Projects
 
-* **🎓 SASCON International School Abuja Website**
+* **SASCON International School Abuja Website**
   * *Laravel + MySQL Educational Portal*
   * Designed and built a comprehensive administrative database portal featuring student record management, parent dashboards, and automated report card generation systems.
   * [🔗 Visit Live Site](https://github.com/infiniteideas1) <!-- Update with actual link if available -->
 
-* **🔒 Ethic Restore Portal**
+* **Ethic Restore Portal**
   * *PHP + SQL Secure Database*
   * Developed a web interface for cybersecurity-focused social media account recovery, handling sensitive account restoration workflows and security protocols.
   * [🔗 Visit Live Site](https://github.com/infiniteideas1)
 
-* **🛡️ Fixa Pathway Website**
+* **Fixa Pathway Website**
   * *HTML5/CSS3 + ES6 JavaScript*
   * Designed and built the user journey mapping and responsive landing pages for a digital asset recovery cybersecurity firm.
   * [🔗 Visit Live Site](https://github.com/infiniteideas1)
@@ -157,7 +157,7 @@ I am a passionate **Full-Stack Developer, AI Trainer, and Machine Learning Speci
 
 ---
 
-### 🎨 Creative Graphic Design Portfolio
+### Creative Graphic Design Portfolio
 
 In addition to engineering, I design visual assets to help brands and organizations stand out:
 * **Tech & Education**: Advanced Coding Bootcamp Flyer, Tech Innovation Bootcamp Flyer, Data Science Intensive Flyer, SASCON Academy Admissions Flyer.
@@ -165,7 +165,7 @@ In addition to engineering, I design visual assets to help brands and organizati
 
 ---
 
-### 📊 GitHub Stats & Activity
+### GitHub Stats & Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=infiniteideas1&show_icons=true&locale=en&theme=tokyonight" alt="Godwin's GitHub Stats" height="150" />
@@ -179,7 +179,7 @@ In addition to engineering, I design visual assets to help brands and organizati
 
 ---
 
-### 📬 Connect With Me
+### Connect With Me
 
 - **Email**: [thegodwinitodo@gmail.com](mailto:thegodwinitodo@gmail.com) / [biz.infiniteideas@gmail.com](mailto:biz.infiniteideas@gmail.com)
 - **Location**: Abuja, Nigeria 🇳🇬
